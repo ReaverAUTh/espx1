@@ -9,7 +9,7 @@ In order to test the implementation locally on your machine, use the files locat
 make all
 ./prod-cons <p> <q>
 ```
-Replase the values <p> and <q> with the producer and consumer threads you want to use respectively. For example,
+Replace the values p and q with the producer and consumer threads you want to use respectively. For example,
   
 ```
 ./prod-cons 2 3
